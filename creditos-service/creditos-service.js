@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 
 // Inicia o Servidor na porta 8080
-let porta = 8080;
+let porta = 8082;
 app.listen(porta, () => {
  console.log('Servidor em execução na porta: ' + porta);
 });

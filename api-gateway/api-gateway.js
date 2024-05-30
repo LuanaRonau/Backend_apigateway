@@ -8,7 +8,7 @@ app.use(logger('dev'));
 function selectProxyHost(req) {
     if (req.path.startsWith('/Cadastro'))
         return 'http://localhost:8081/';
-    else if (req.path.startsWith('/Pontos'))
+    else if (req.path.startsWith('/Creditos'))
         return 'http://localhost:8082/';
     else return null;
 }
