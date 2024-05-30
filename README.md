@@ -16,6 +16,6 @@ A API gateway direciona as requisições para 5 micro-serviços diferentes, send
 
 ## Autoras do código 
 <a href=https://github.com/LuanaRonau/>Luana Ronau<a/> <br/>
-<a href=https://github.com/rafasborges)/>Rafaela Borges<a/>
+<a href='https://github.com/rafasborges'/>Rafaela Borges<a/>
 
 
